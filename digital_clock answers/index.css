@@ -1,6 +1,7 @@
 
 body {
-    background-color: #80d4ea;
+    background-color: blue;
+
 }
 
 #clock {
@@ -13,5 +14,5 @@ body {
     font-family: courier, monospace;
     text-align: center;
     font-size: 100px;
-    color: white;
+    color: pink;
 }
